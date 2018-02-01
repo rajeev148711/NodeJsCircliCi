@@ -1,4 +1,0 @@
-
-dependencies:
-  override:
-    - nvm install 6 && npm install
